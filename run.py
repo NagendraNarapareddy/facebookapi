@@ -6,7 +6,7 @@ app.secret_key = "1274hd7gd13h2dG4ih26rd2733fg82hf8"
 
 APP_ID = "967570292026238"
 APP_SECRET = "9523bc2e435818c1bfb15c514b0384c5"
-REDIRECT_URI = "https://d1c0-116-199-206-56.ngrok-free.app/callback"
+REDIRECT_URI = "https://facebookapi-hj0x.onrender.com/callback"
 
 # Helper function to fetch data
 def fetch_data(url, params):
